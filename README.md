@@ -1,5 +1,5 @@
 # Yanfei_Hu Portfolio
-# Project 1: Absenteeism Analysis: Project Overview 
+# [Project 1: Absenteeism Analysis: Project Overview](https://github.com/nengnengfei/Data_Science_Absenteeism_Analysis)
 * Focued on the business problems
 * Looked into the dataset and applied Logistic Regression
 * Created a dataviz
