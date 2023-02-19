@@ -1,8 +1,8 @@
-# Yanfei_Portfolio
-Data Science Portfolio
-
-# [Project 1: US Accidents from February 2016 to Dec 2021: Project Overview](https://github.com/nengnengfei/Data_Science_US-Accidents)
-* Kaggle
-* Information about accidents
-* Can be useful to prevent accidents
-* Mention that this dataset does not contain data about New York
+# Yanfei_Hu Portfolio
+# Project 1: Absenteeism Analysis: Project Overview 
+* Focued on the business problems
+* Looked into the dataset and applied Logistic Regression
+* Created a dataviz
+* Predicted absenteeism from work to know whether or not an employee can be expected to be missing for a specific number of hours in a given workday
+* Improve business decision-making by reorganizing the work process in a way that will allow business to avoid a lack of productivity and increase the quality of work 
+* Explored whether a person presenting certain characteristics is expected to be away from work at some point in time or not
